@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Coin
+  - Exit
+  - Tut
+  - Void
+  - Canvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platforms
+  - Ladders
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1407185447
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3737414937
+    locked: 0
+  - name: Player
+    uniqueID: 3024981387
+    locked: 0
+  - name: Obstacles
+    uniqueID: 4015930317
+    locked: 0
+  - name: Collectables
+    uniqueID: 1221957793
+    locked: 0
+  - name: Interactables
+    uniqueID: 2566004013
+    locked: 0
